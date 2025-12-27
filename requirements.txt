@@ -1,0 +1,12 @@
+# YouTube Toplu İndirici - Gereksinimler
+
+# Ana bağımlılık
+yt-dlp>=2023.12.30
+
+# Not: tkinter genellikle Python ile birlikte gelir
+# Eğer sisteminizde yoksa, sistem paket yöneticisi ile yükleyin:
+# - Windows: Python kurulumu ile birlikte gelir
+# - Linux (Ubuntu/Debian): sudo apt-get install python3-tk
+# - Linux (Fedora): sudo dnf install python3-tkinter
+# - Mac: Python kurulumu ile birlikte gelir
+
